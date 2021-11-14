@@ -1,1 +1,5 @@
+Comparisons = 14
+Swaps = 10
+Comparisons = 19
+Swaps =13
 
